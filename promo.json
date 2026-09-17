@@ -2,13 +2,12 @@
   "apps": [
  
     {
-      "name": "Paint Hide Zombie Inj",
-      "packageName": "com.zombie.slayer.rog.remove.ads",
-      "targetAsin": "B0GQ3264KW",
-      "storeUrl": "https://www.amazon.com/dp/B0GQ3264KW",
-      "rewardedVideoURL": "https://files.catbox.moe/b8exnv.mp4"
+      "name": "Car Driving Simulator OL",
+      "packageName": "com.dts.car.driving.simulator",
+      "targetAsin": "B0GFNKG9XL",
+      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
+      "rewardedVideoURL": "https://files.catbox.moe/6bmh8p.mp4"
     },
-  
      {
       "name": "Car Driving Simulator OL",
       "packageName": "com.dts.car.driving.simulator",
@@ -24,13 +23,12 @@
       "rewardedVideoURL": "https://files.catbox.moe/8odv11.mp4"
     },
   {
-      "name": "Dino Hunting",
-      "packageName": "com.dino.family.simulator.hunt",
-      "targetAsin": "B0GHNNSRLC",
-      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
-      "rewardedVideoURL": "https://files.catbox.moe/zapmbp.mp4"
+      "name": "Bike Wheelie",
+      "packageName": "com.bike.wheeling.racing.master.dts",
+      "targetAsin": "B0GMJNQHKY",
+      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
+      "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
     },
-  
     {
       "name": "Bike Wheelie",
       "packageName": "com.bike.wheeling.racing.master.dts",
@@ -38,16 +36,13 @@
       "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
       "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
     },
-  
-    
     {
       "name": "Dino Hunting",
       "packageName": "com.dino.family.simulator.hunt",
       "targetAsin": "B0GHNNSRLC",
       "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
       "rewardedVideoURL": "https://files.catbox.moe/lzm1lb.mp4"
-    },
-     
+    }, 
   {
       "name": "Midnight Car Racing",
       "packageName": "com.car.racing.midnight.dts",
