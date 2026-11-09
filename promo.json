@@ -9,6 +9,13 @@
       "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
     },
     {
+      "name": "Bike Wheelie",
+      "packageName": "com.bike.wheeling.racing.master.dts",
+      "targetAsin": "B0GMJNQHKY",
+      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
+      "rewardedVideoURL": "https://files.catbox.moe/kqeb9s.mp4"
+    },
+    {
       "name": "Street Gangster OL",
       "packageName": "com.gangster.crime.game.rog",
       "targetAsin": "B0FY8FFCZR",
